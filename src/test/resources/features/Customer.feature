@@ -14,6 +14,7 @@ Feature: Add Customer
     Then I click on customers option from list
     Then I click on add button from customer page
     And Close the Browser.
+    #And Close the Browser.
 
     Examples:
       |email|password|
